@@ -23,9 +23,8 @@ This project analyzes trends in the Indian startup ecosystem based on funding da
 
 - **Python** – data processing and logic
 - **Pandas**, **NumPy** – data manipulation
-- **Matplotlib**, **Seaborn**, **Plotly** – data visualization
+- **Matplotlib** – data visualization
 - **Streamlit** – interactive web app
 - **Git** + **GitHub** – version control
 
-## 📁 Project Structure
 
